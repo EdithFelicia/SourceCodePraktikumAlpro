@@ -15,12 +15,13 @@ link : https://kabarkan.com/contoh-soal-matematika-kelas-6-sd-semester-1-dan-2/
 harga_baju_1 = int(input("Masukkan harga baju pertama yang dibeli: "))
 persenan_diskon_baju_1 = float(input("Masukkan persenan diskon baju pertama yang dibeli: "))
 harga_baju_lain = int(input("Masukkan harga baju kedua yang dibeli: "))
+persenan_harus_dibayar = float(input("Masukkan berapa persen yang harus dibayar: "))
 
 # PROSES
 # ANGGI HARUS MEMBAYAR
 harga_sebelum_diskon = harga_baju_1 + harga_baju_lain
-anggi_bayar = 0.45 * harga_sebelum_diskon
-print("Anggi harus membayar sebesar", 'Rp', anggi_bayar)
+anggi_bayar = persenan_harus_dibayar * harga_sebelum_diskon
+print("Pengguna harus membayar sebesar", 'Rp', anggi_bayar)
 
 # BESAR DISKON BAJU PERTAMA
 besar_diskon_baju_1 = harga_baju_1 * persenan_diskon_baju_1
