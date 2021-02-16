@@ -18,10 +18,10 @@ harga_baju_lain = int(input("Masukkan harga baju kedua yang dibeli: "))
 persenan_harus_dibayar = float(input("Masukkan berapa persen yang harus dibayar: "))
 
 # PROSES
-# ANGGI HARUS MEMBAYAR
+# ANDA HARUS MEMBAYAR
 harga_sebelum_diskon = harga_baju_1 + harga_baju_lain
 anggi_bayar = persenan_harus_dibayar * harga_sebelum_diskon
-print("Pengguna harus membayar sebesar", 'Rp', anggi_bayar)
+print("Anda harus membayar sebesar", 'Rp', anggi_bayar)
 
 # BESAR DISKON BAJU PERTAMA
 besar_diskon_baju_1 = harga_baju_1 * persenan_diskon_baju_1
@@ -33,7 +33,7 @@ print("Harga baju pertama setelah mendapat diskon adalah", 'Rp', harga_baju_1_se
 
 # HARGA KESELURUHAN YANG DIBAYAR
 harga_keseluruhan = harga_baju_1_setelah_diskon + harga_baju_lain
-print("Biaya belanja Anggi disertai dengan diskon adalah", 'Rp', harga_keseluruhan)
+print("Biaya belanja Anda disertai dengan diskon adalah", 'Rp', harga_keseluruhan)
 
 # HARGA BAJU KEDUA SETELAH DISKON
 # anggi_bayar = harga_baju_1_setelah_diskon + harga_baju_lain_setelah_diskon
