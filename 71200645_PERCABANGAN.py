@@ -12,7 +12,7 @@ Berikut ini ketentuan lebih jauh dari program yang diinginkan Siska.
 a. Di latar belakang Pale City, Mono bisa memilih ingin berfoto dengan
    Thin Man atau Viewers, sementara Bullies atau Teacher tersedia di latar belakang School.
 b. Harga sebuah foto dengan latar belakang dan karakter apa pun adalah Rp50.000
-c. Jika Mono berfoto dengan Bullies dan Thin Man, pelanggan mendapat diskon random
+c. Jika Mono berfoto dengan Bullies dan Thin Man, pelanggan mendapat diskon random dari 10% sampai 50%
 
 '''
 
