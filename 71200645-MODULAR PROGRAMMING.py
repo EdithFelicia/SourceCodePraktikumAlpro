@@ -43,3 +43,5 @@ else:
     jumlah = int(input("Masukkan berapa buah yang Anda inginkan: "))
     seluruh_bayar = hargaBeli(jumlah, harga, diskon)
     print("Anda harus membayar sebesar Rp", seluruh_bayar)
+    
+print("Terima kasih! Silakan datang lagi lain kali!")
