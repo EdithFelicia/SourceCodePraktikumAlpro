@@ -10,8 +10,10 @@ yang mereka inginkan. Berikut keterangan lebih jauh dari program Anisa.
 a. Apabila pecinta buku memilih exit, maka pecinta buku diminta untuk
    memilih genre yang tersedia, yaitu Fantasi, Teenfict, dan Horror serta
    menuliskan judul serta jumlah buku yang mereka inginkan.
-b. Apabila pecinta buku sudah memilih buku bukan best seller, maka program akan berhenti
-c. Buku-buku best seller; Little Magacal Piya, Gemitir, dan Matt and Mou, dengan
+b. Apabila genre dan buku best seller yang dipilih tidak sesuai, maka pecinta buku
+   diharapkan mencari toko buku lain
+c. Apabila pecinta buku sudah memilih buku bukan best seller, maka program akan berhenti
+d. Buku-buku best seller; Little Magacal Piya, Gemitir, dan Matt and Mou, dengan
    keterangan masing-masingnya: Tersedia, Tidak tersedia, dan Tersedia.
 '''
 
